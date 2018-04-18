@@ -1,0 +1,14 @@
+{
+  "name": "boiler-node-express-pg",
+  "version": "1.0.0",
+  "description": "Basic Boilerplate using Node, Express, PostgreSQL",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mark Perkins",
+  "license": "ISC",
+  "dependencies": {
+    "npm": "^5.8.0"
+  }
+}
