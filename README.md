@@ -1,1 +1,1 @@
-#H2 Boilerplate using Node, Express and PostgreSQL
+## Boilerplate using Node, Express and PostgreSQL
